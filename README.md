@@ -18,11 +18,18 @@ sh install.sh
 ```bash
 fbid
 ```
-It will ask for username of Facebook profile/page. Just provide it just username or complete URL like this.
+It will ask for username of Facebook profile/page. Just provide it just username or complete URL.
 
-```0x5CBC7BC7```
+For example:
+
+
+```
+0x5CBC7BC7
+```
 or
 
 ```
 https://facebook.com/0x5CBC7BC7
 ```
+
+Press `q` if you want to exit.
