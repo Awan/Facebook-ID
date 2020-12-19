@@ -1,4 +1,4 @@
-![foo](https://user-images.githubusercontent.com/42554663/102688213-ff9b1780-4216-11eb-95a0-9850289d2c80.png)
+![fb](https://user-images.githubusercontent.com/42554663/102689711-14c97380-4222-11eb-80da-4a644752dc57.gif)
 
 # Facebook ID finder
 
